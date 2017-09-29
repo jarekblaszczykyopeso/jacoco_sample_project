@@ -9,5 +9,6 @@ public class DemoApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
 		int wywal = 1;
+		int wywal2 = 5;
 	}
 }
